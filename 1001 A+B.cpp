@@ -3,7 +3,7 @@
 #include <cstdio>
 
 using namespace std;
-
+//code server test
 int main()
 {
 	long a, b;
