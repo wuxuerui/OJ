@@ -10,7 +10,7 @@ int main()
 	cin >> a >> b;
 	long c = a + b;
 	int num[20];
-	int k = 0;
+	int k = 0;	
 	bool sign = true;
 	if (c < 0)
 	{
