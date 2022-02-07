@@ -45,7 +45,7 @@ void rbtree_left_rotate(rbtree *T, rbtree_node *x)
     y->left = x;
     x->parent = y;
 }
-
+//insert
 void rbtree_insert(rbtree *T, rbtree_node *z)
 {
     rbtree_node *y = T->nil;
